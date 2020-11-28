@@ -1,19 +1,18 @@
 ### Requirements
-
-* Filling out this template is required. Pull Requests without a clear description may be closed at the maintainers' discretion.
-
+<!--
+Operation of TFT display for Anycubic 4MaxPro
+-->
 ### Description
 
 <!--
-
-We must be able to understand your proposed change from this description. If we can't understand what the code will do from this description, the Pull Request may be closed at the maintainers' discretion. Keep in mind that the maintainer reviewing this PR may not be familiar with or have worked with the code recently, so please walk us through the concepts.
-
+If possible, I request the insertion for the correct functioning of the TFT display of the Anycubic 4MaxPro display Dwin printer
 -->
-
 ### Benefits
 
-<!-- What does this fix or improve? -->
+<!-- 
+Solves the problem of the display not working -->
 
 ### Related Issues
 
-<!-- Whether this fixes a bug or fulfills a feature request, please list any related Issues here. -->
+<!-- 
+Resolves the possibility of being able to install Marlin 2.0.x on the Anycubic 4MaxPro printer -->
